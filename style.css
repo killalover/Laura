@@ -3,13 +3,18 @@ p {
 }
 
 body {
-    background: #CCCCCC;
+    
 }
 
 #banner {  
     width: 100%;
  }
  
+.principal {
+    background: #CCCCCC;
+}
+
+
 h1 {
      text-align: center;
     }
@@ -31,4 +36,17 @@ strong {
      
 .Beneficios {
     background: #ffffff;
+}
+  
+h2{ 
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagembeneficios{ 
+    width: 50%;
 }
